@@ -24,7 +24,7 @@ class Plinko {
        //imageMode(CENTER);
 
        fill("white");
-       ellipseMode(RADIUS);
+       //ellipseMode(RADIUS);
        ellipse(0,0,this.r,this.r);
        pop();
     }
